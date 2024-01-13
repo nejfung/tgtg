@@ -1,5 +1,6 @@
 # tgtg
-Notifications for TooGoodToGo
+Notifications for TooGoodToGo: 
+
 Sends notifications through email for when a store on TooGoodToGo restocks based on the stores that a user has favourited
 
 - notify.py: the script that should be constantly running
